@@ -1,0 +1,4 @@
+EmuRTC	KEYWORD1
+DateTime	KEYWORD2
+setSystemDateTime	FUNCTION
+getSystemDateTime	FUNCTION
